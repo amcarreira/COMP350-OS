@@ -1,0 +1,24 @@
+Project C - Noah Sayed, Marie Clancy, Adam Carreira
+
+Step 1: Marie
+-------------
+Created readFile() to read files into a buffer.
+
+Step 2: Noah
+------------
+Created executeProgram() to load programs and execute all in one.
+
+Step 3: Adam
+------------
+Allowed to program to go back to the OS when done, using an 
+interrupt 21 call.
+
+Step 4: Noah
+------------
+In this step we created a program by creating & compiling shell.c
+and loading it onto the disk.
+
+Step 5 & 6: Adam
+----------------
+Used the shell to recognize commands "type" and "exec" with errors
+when the file is not found.
